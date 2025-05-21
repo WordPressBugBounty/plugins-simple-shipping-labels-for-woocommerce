@@ -366,7 +366,7 @@ class dimap_SimpleShippingLabels {
 	// ##########################
 	function setting_label_size() {
 		?>
-		<p class="description">The horizontal and vertical sides lenghts of the label.</p>
+		<p class="description">The horizontal and vertical sides lengths of the label.</p>
 		<ul>
 			<li>
 				<label for="label-height">Height :

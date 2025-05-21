@@ -7,8 +7,8 @@ if ( ! defined( 'ABSPATH' ) ) exit;
  * Plugin Name:       Simple Shipping Labels for WooCommerce
  * Description:       This plugin adds a column of buttons in WooCommerce orders page, to generate a single or bulk of shipping labels for printing.
  * Version:           1.0.7
- * Tested up to:      6.4.3
- * WC tested up to:   8.5.2
+ * Tested up to:      6.7.2
+ * WC tested up to:   9.8.1
  * Author:            Dima Pavlenko
  * Author URI:        https://dimapavlenko.com
  * License:           GPLv3

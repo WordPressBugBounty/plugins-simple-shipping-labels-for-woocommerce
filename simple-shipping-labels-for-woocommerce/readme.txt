@@ -3,7 +3,7 @@ Contributors: dima411
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K2TB6TFKX4ADS&source=url
 Tags: woocommerce shipping labels, woocommerce, shipping labels, print, dymo
 Requires at least: 5.0
-Tested up to: 6.4.3
+Tested up to: 6.7.2
 Requires PHP: 5.6
 Stable tag: 1.0.7
 License: GPLv3 or later
